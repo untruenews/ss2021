@@ -10,7 +10,7 @@ https://www.qu.tu-berlin.de/menue/team/senior_researchers/vinicius_woloszyn/
 
 ## Roadmap
 - [x] 1# 27/04/2021 - Introduction and definition of groups
-- [ ] 2# 04/05/2021 - Flair 
+- [ ] 2# 04/05/2021 - Flair example here: https://github.com/untruenews/ss2021/blob/main/code/flair.ipynb
 - [ ] 3# 11/05/2021 - Flair
 - [ ] 4# 18/05/2021 - Flair
 - [ ] 5# 25/05/2021 - ?
