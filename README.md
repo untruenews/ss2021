@@ -13,7 +13,7 @@ https://www.qu.tu-berlin.de/menue/team/senior_researchers/vinicius_woloszyn/
 - [ ] 2# 04/05/2021 - Flair example here: https://github.com/untruenews/ss2021/blob/main/code/flair.ipynb
 - [ ] 3# 11/05/2021 - Flair Q&A session
 - [ ] 4# 18/05/2021 - Flair Q&A session
-- [ ] 5# 25/05/2021 - GROUP B starting at 14HS,  GROUP A starting at 15HS, 
+- [ ] 5# 25/05/2021 - GROUP B starting at 14HS,  GROUP A at 15HS, 
 - [ ] 6# 01/06/2021 - ?
 - [ ] 7# 08/06/2021 - ?
 - [ ] 8# 15/06/2021 - ?
