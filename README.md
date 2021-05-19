@@ -14,6 +14,7 @@ https://github.com/untruenews/ss2021/blob/main/slides/course.pdf
 GROUP B start at 14HS, and GROUP A at 15HS,
 ## Roadmap
 - [x] 1# 27/04/2021 - Introduction and definition of groups
+<<<<<<< HEAD
 - [x] 2# 04/05/2021 - Flair 
 - [x] 3# 11/05/2021 - Flair
 - [x] 4# 18/05/2021 - Flair
@@ -32,6 +33,18 @@ GROUP B: https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-la
 - [ ] 11#  06/07/2021 - experiments / writing the paper
 - [ ] 12#  13/07/2021 - experiments / writing the paper
 - [ ] 13#  17/07/2021 - submiting the paper
+=======
+- [ ] 2# 04/05/2021 - Flair example here: https://github.com/untruenews/ss2021/blob/main/code/flair.ipynb
+- [ ] 3# 11/05/2021 - Flair Q&A session
+- [ ] 4# 18/05/2021 - Flair Q&A session
+- [ ] 5# 25/05/2021 - GROUP B starting at 14HS,  GROUP A at 15HS, 
+- [ ] 6# 01/06/2021 - ?
+- [ ] 7# 08/06/2021 - ?
+- [ ] 8# 15/06/2021 - ?
+- [ ] 9# 22/06/2021 - ?
+- [ ] 10#  29/06/2021 - ?
+
+>>>>>>> d2881cb91234bf503bf7e7bdeab91f04397e5d2f
 
 ## Main References
 1. Dive into Deep Learning, https://d2l.ai/d2l-en.pdf
