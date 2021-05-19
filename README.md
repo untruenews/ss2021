@@ -18,11 +18,14 @@ GROUP B start at 14HS, and GROUP A at 15HS,
 - [x] 3# 11/05/2021 - Flair
 - [x] 4# 18/05/2021 - Flair
 - [ ] 5# 25/05/2021 - Experiments with textattack: (GROUP A) ATTACKS, (GROUP B) DATA Augmentation
+
+GROUP A & B: present the evolution of the work
+
 - [ ] 6# 01/06/2021 - Experiments with textattack: (GROUP A) ATTACKS, (GROUP B) DATA Augmentation
 
 GROUP A: Perform attacks to the flair models using https://github.com/QData/TextAttack . Compare the resilience of "RoBERTa","BERTweet", "FlairEmbeddings" to Synonym Substitution, Character Substitution, Word Insertion or Removal, General Paraphrase attacks.
 
-GROUP B: Data Augmentation using: machine translation (e.g. translate english to german and test on the 396 examples), text augment https://github.com/QData/TextAttack#augmenting-text-textattack-augment
+GROUP B: train a german detector for fake news: 1) Extract data in different languages from the raw dataset (e.g., portuguese, italian). 2) Experimetn with google tranlate https://pypi.org/project/googletrans/ to translate the data to german. 3) Use the translated data to train a pre-trained language model in german. 4) train a multilanguage model (e.g., tf-xlm-roberta-base) 4) compare and Present the results.
 
 
 - [ ] 7# 08/06/2021 - Presenting of: 
