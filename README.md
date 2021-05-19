@@ -26,8 +26,11 @@ GROUP B: Data Augmentation using: machine translation (e.g. translate english to
 
 
 - [ ] 7# 08/06/2021 - Presenting of: 
+
 GROUP A: https://www.europarl.europa.eu/RegData/etudes/STUD/2019/624279/EPRS_STU(2019)624279_EN.pdf
+
 GROUP B: https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence-artificial-intelligence
+
 - [ ] 8# 15/06/2021 - experiments / writing the paper
 - [ ] 9# 22/06/2021 - experiments / writing the paper
 - [ ] 10#  29/06/2021 - experiments / writing the paper
