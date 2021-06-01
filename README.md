@@ -28,11 +28,11 @@ GROUP A: Perform attacks to the flair models using https://github.com/QData/Text
 GROUP B: train a german detector for fake news: 1) Extract data in different languages from the raw dataset (e.g., portuguese, italian). 2) Experimetn with google tranlate https://pypi.org/project/googletrans/ to translate the data to german. 3) Use the translated data to train a pre-trained language model in german. 4) train a multilanguage model (e.g., tf-xlm-roberta-base) 4) compare and Present the results.
 
 
-- [ ] 7# 08/06/2021 - Presenting of: 
+- [ ] 7# 08/06/2021 - Presentation: 
 
-GROUP A: https://www.europarl.europa.eu/RegData/etudes/STUD/2019/624279/EPRS_STU(2019)624279_EN.pdf
+GROUP A will present: https://www.europarl.europa.eu/RegData/etudes/STUD/2019/624279/EPRS_STU(2019)624279_EN.pdf
 
-GROUP B: https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence-artificial-intelligence
+GROUP B will present: https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence-artificial-intelligence
 
 - [ ] 8# 15/06/2021 - experiments / writing the paper
 - [ ] 9# 22/06/2021 - experiments / writing the paper
